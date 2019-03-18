@@ -1,0 +1,38 @@
+
+html {
+	font-size: 30px; 
+	font-family: 'Srisakdi', cursive;
+	background-color: #ffffff;  
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #ffe6ff;
+	padding: 0 20px 20px 20px;
+	border: 5px solid pink;
+
+	font-size: 30px;
+	text-shadow: 1px 1px 3px black;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: violet;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;    
+	text-shadow: 3px 3px 3px black;
+}	
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+video {
+	margin: 1em auto;
+	display: none;
+}
+
+
