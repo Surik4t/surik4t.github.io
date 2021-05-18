@@ -6,8 +6,8 @@ myImage.onclick = function() {
 		var mySrc = myImage.getAttribute("src");
 		if(mySrc === "images/butt.jpg") {
 				myImage.style.display = "none";
-				myHeading.textContent = "v v v v v v v v v v v v v v v v";
-				var x = document.querySelector('a').textContent = "Warned ya..... ";
+				myHeading.textContent = "v v v v v v v v v v v v v v v v v v v v v";
+//				var x = document.querySelector('a').textContent = "Warned ya..... ";
 				myVid.style.display = "block";
 				myVid.play();
 		}
